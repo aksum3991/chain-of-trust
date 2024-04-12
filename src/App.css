@@ -1,0 +1,12 @@
+.app{
+  display: flex;
+  position: relative;
+ 
+}
+.main-content{
+  flex: 4;
+  padding-left: 170px;
+  box-sizing: border-box;
+  height: 100%;
+
+}
